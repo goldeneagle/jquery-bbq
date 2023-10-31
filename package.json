@@ -1,0 +1,20 @@
+{
+  "name": "jquery-bbq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/goldeneagle/jquery-bbq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldeneagle/jquery-bbq/issues"
+  },
+  "homepage": "https://github.com/goldeneagle/jquery-bbq#readme",
+  "dependencies": {}
+}
